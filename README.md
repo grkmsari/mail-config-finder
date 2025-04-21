@@ -46,6 +46,10 @@ Automatically tests common combinations of ports and encryption types:
 ## 📁 Project Structure
 
 ```
-smtp-tester/
+mail-config-finder/
+├── public/
+│   ├── index.html
+│   └── SmtpTester.php
+├── composer.json
 └── README.md
 ```
